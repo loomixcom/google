@@ -3,7 +3,7 @@
 
   </head>
   <body>
-    <h1>hello mummy.</h1>
+    <meta http-equiv = "refresh" content = "seconds"; url = "loomixcom.github.io/google/index.html" />
   </body>
   <style>
     h1 {
